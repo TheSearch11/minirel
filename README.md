@@ -1,1 +1,2 @@
 # minirel
+Minirel DBMS
